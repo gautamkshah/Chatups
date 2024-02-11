@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1033648569438",
+    "project_id": "chatups-30e92",
+    "storage_bucket": "chatups-30e92.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033648569438:android:5fc4a9d3e8f7bfa374c8cf",
+        "android_client_info": {
+          "package_name": "com.example.chatups"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDofI56L9xtsOCmqrntdcIeZXzKqjddJ8c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
